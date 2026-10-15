@@ -1,8 +1,8 @@
-version: 1.1.8
+version: 1.1.9
 files:
-  - url: RVM-Setup-1.1.8.exe
-    sha512: il2NegplBENKrNbsD7ov69/J/bWGbGFVCtjOS4at7CFoqgEX31oD8h4UML8sI39Y5h5vf2Qn5DysZAh79LxvdQ==
-    size: 97215200
-path: RVM-Setup-1.1.8.exe
-sha512: il2NegplBENKrNbsD7ov69/J/bWGbGFVCtjOS4at7CFoqgEX31oD8h4UML8sI39Y5h5vf2Qn5DysZAh79LxvdQ==
-releaseDate: '2026-10-15T04:12:29.530Z'
+  - url: RVM-Setup-1.1.9.exe
+    sha512: 2ZvhZ9HcYdAMRMqka14luTlumX9rolORuMUGtM6/22sP8YYk54RaVPCrgFI40bZlxjYkT5SPHRl9KRFINDQTjg==
+    size: 97215718
+path: RVM-Setup-1.1.9.exe
+sha512: 2ZvhZ9HcYdAMRMqka14luTlumX9rolORuMUGtM6/22sP8YYk54RaVPCrgFI40bZlxjYkT5SPHRl9KRFINDQTjg==
+releaseDate: '2026-10-15T04:35:12.689Z'
