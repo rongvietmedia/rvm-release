@@ -1,8 +1,8 @@
-version: 1.1.32
+version: 1.1.33
 files:
-  - url: RVM-Setup-1.1.32.exe
-    sha512: GT4OtnYKRUMVJnjt3QzSHNDEDuW3iP+/7SYk700XbcyX9xokhZiuRTJ7JN3HLh+Gj3TkU3U171itJyBGT8LgHg==
-    size: 97354580
-path: RVM-Setup-1.1.32.exe
-sha512: GT4OtnYKRUMVJnjt3QzSHNDEDuW3iP+/7SYk700XbcyX9xokhZiuRTJ7JN3HLh+Gj3TkU3U171itJyBGT8LgHg==
-releaseDate: '2026-11-06T15:54:22.037Z'
+  - url: RVM-Setup-1.1.33.exe
+    sha512: xe60yFfGlM9t7nW67xRgQ9O8l/JsK0b624vmzpyMOxq1UPlXauN9DVXkZ4WfvjUp5QCqcwBVkas4AlRwOP+CWA==
+    size: 97355119
+path: RVM-Setup-1.1.33.exe
+sha512: xe60yFfGlM9t7nW67xRgQ9O8l/JsK0b624vmzpyMOxq1UPlXauN9DVXkZ4WfvjUp5QCqcwBVkas4AlRwOP+CWA==
+releaseDate: '2026-11-09T01:21:13.075Z'
