@@ -1,0 +1,11 @@
+version: 1.4.1
+files:
+  - url: RVM-Mac-1.4.1-arm64.zip
+    sha512: HH7XFR0C8WYB9as8RlR6I+XywvqKM/8LEGiN+TNMjFEHQHE1g5suQ602pdhWTunK49kWQy8hwWh6ebY7ipPKpw==
+    size: 112943998
+  - url: RVM-Mac-1.4.1-arm64.dmg
+    sha512: JbSesXsP9wVwBl8DHnyErkN4IfIn/GPcfcIlnsTnqTLpdBnC09joizqTsH6bkEGKrTDAQXed/0uw2evT08uf+A==
+    size: 117264399
+path: RVM-Mac-1.4.1-arm64.zip
+sha512: HH7XFR0C8WYB9as8RlR6I+XywvqKM/8LEGiN+TNMjFEHQHE1g5suQ602pdhWTunK49kWQy8hwWh6ebY7ipPKpw==
+releaseDate: '2026-11-16T04:12:27.837Z'
